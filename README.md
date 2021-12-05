@@ -8,7 +8,7 @@
 黑名单上的域名和IP使用代理，屏蔽部分广告，其余直连。
 
 ```
-https://raw.githubusercontent.com/wcr1996/shadowrocket_rules/main/blacklist.conf
+https://raw.githubusercontent.com/Xiaolang0/shadowrocket_rules/main/blacklist.conf
 ```
 
 ## 白名单规则
@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/wcr1996/shadowrocket_rules/main/blacklist.conf
 白名单上的域名和IP直连，屏蔽部分广告，其余使用代理。
 
 ```
-https://raw.githubusercontent.com/wcr1996/shadowrocket_rules/main/whitelist.conf
+https://raw.githubusercontent.com/Xiaolang0/shadowrocket_rules/main/whitelist.conf
 ```
 
 ## 致谢
